@@ -13,6 +13,9 @@ research in this area, ACL holds SemEval competitions to evaluate the semantic m
 2012. Our goal in this proposal is to replicated some of below mentioned existing works to
 get better understanding of these models.
 
+Despite the existence of well-established models for generating word representation and the consensus about its usefulness,
+the existing techniques proposed for learning the sentence representations have not fully captured the complexity of compositional semantics. In this project, I compared various machine learning techniques used to determine the semantic representation of a text. Semantic Text Similarity (STS) is used as a primary task to evaluate these models. STS task was proposed to stimulate research and to encourage the development of new approaches for modelling sentence-level semantics. This task can be used to evaluate and investigate the capability of the machine learning techniques proposed for learning text semantics; as it is important to capture the meaning of a sentence to perform well in this task.
+
 ## Task Overview
 
 The task of semantic textual similarity involves two sub-task: 1)Sentence Relatedness, 2)
